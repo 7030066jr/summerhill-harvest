@@ -1,1 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Satisfy&display=swap');
+
+#hero-image {
+  height: 300px;
+  width: 100%;
+  background: url("hero_imagev1.jpg")
+}
