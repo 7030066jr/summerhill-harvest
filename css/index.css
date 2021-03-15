@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Satisfy&display=swap');
 
 #hero-image {
-  height: 300px;
+  height: 600px;
   width: 100%;
-  background: url("hero_imagev1.jpg");
+  background: url("https://github.com/7030066jr/summerhill-harvest/blob/5b450d2064ee66b7bc8b2181c8b81a822394e3ea/hero_imagev1.jpg");
 }
 body {
   color: red;}
